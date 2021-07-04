@@ -46,3 +46,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [HTML5](https://html.com/)
 - [CSS](https://css.com/)
+
+## To run this on your local workspace
+
+ - Copy/Pull the repository maintaining the file structure.
+ - Open the index.html file in your browser
